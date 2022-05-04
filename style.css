@@ -25,6 +25,12 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.Abraham-style {
+    color: rgb(184, 32, 32);
+    background-color: white;
+    padding: 3px;
+}
+
 .jane-style {
     color: hotpink;
     background-color: black;
